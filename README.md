@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width="498px" height="278px" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif"></a> 
+  <img src="https://media1.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif?cid=ecf05e4740c1m4kvd9zbhcpeef8xojadpnrz5289au9p169g&rid=giphy.gif&ct=g"></a> 
 </div>
 
 # 👋 hello world, I’m Lucas Moraes

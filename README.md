@@ -1,3 +1,7 @@
+<div align="center"> 
+  <img width="498px" height="278px" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif"></a> 
+</div>
+
 # 👋 hello world, I’m Lucas Moraes
 <div align="center">
   <a href="https://github.com/devlucasmoraes">
